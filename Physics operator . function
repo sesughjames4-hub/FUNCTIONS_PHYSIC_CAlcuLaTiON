@@ -1,0 +1,1 @@
+import mathfrom random import choicedef area_of_circle():    radius = float(input('Enter Radius: '))    area = 2 * 22/7 * radius    print(area)
